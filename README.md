@@ -328,8 +328,6 @@ Create a folder named `screenshots` in the repository and upload your dashboard 
 <img width="1176" height="658" alt="image" src="https://github.com/user-attachments/assets/b1d76f7a-97a3-4bbd-bc54-53048c4bfdd3" />
 
 
-*Note: These are suggested filenames. The images will display on GitHub only after the corresponding screenshots have been uploaded to the `screenshots` folder.*
-
 ## 📁 Repository Structure
 
 A suggested repository structure is:
